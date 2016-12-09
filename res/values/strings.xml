@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TouchEventDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_exit">Exit</string>
+    
+    <string name="touch_area">触摸测试区</string>
+    <string name="show">测试显示</string>
+
+</resources>

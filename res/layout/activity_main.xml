@@ -1,0 +1,24 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!-- 测试区域 -->
+    <TextView
+        android:id="@+id/touch_area"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.8"
+        android:background="#80a0ff"
+        android:text="@string/touch_area" />
+    
+ 	<!-- 显示区域 -->
+    <TextView 
+        android:id="@+id/showView"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.2" 
+        android:text="@string/show" />
+
+</LinearLayout>
+    
